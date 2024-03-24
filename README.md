@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natan Hailu</h1>
+<h1 align="center">Hi 👋, I'm Salah</h1>
 <h3 align="center">A Cyber Security Enthusiast and Content Creator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexder26&label=Profile%20views&color=0e75b6&style=flat" alt="rexder26" /> </p>
@@ -11,13 +11,11 @@
 
 - 🤝 I’m looking for help with **OSCP, CEH, CBBH, CPTS**
 
-- 📝 I regularly Create Content on [https://www.youtube.com/@geeztech](https://www.youtube.com/@geeztech)
-
 - 💬 Ask me about **Any Ethical Hacking Concepts**
 
-- 📫 How to reach me **natanhailu82@gmail.com**
+- 📫 How to reach me ** **
 
-- ⚡ Fun fact **I think am Funny and Serious at Same time**
+- ⚡ Fun fact ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
