@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Any Ethical Hacking Concepts**
 
-- 📫 How to reach me **natanhailu82@gmail.com**
+- 📫 How to reach me **natanhailu@geezsecurity.com**
 
 - ⚡ Fun fact **I think am Funny and Serious at Same time**
 
