@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Web Penetration Testing**
 
-- 🌱 I’m currently learning **System Hacking**
-
-- 👯 I’m looking to collaborate on **System hacking**
-
-- 🤝 I’m looking for help with **OSCP, CEH, CBBH, CPTS**
+- 🔥 I’m **Certified Penetration tester**
 
 - 📝 I regularly Create Content on [https://www.youtube.com/@geeztech](https://www.youtube.com/@geeztech)
 
